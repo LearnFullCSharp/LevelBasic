@@ -1,0 +1,6 @@
+D:\Learn C#\LevelBasic\Lab01\ApplicationOne\ApplicationOne\bin\Debug\ApplicationOne.exe.config
+D:\Learn C#\LevelBasic\Lab01\ApplicationOne\ApplicationOne\bin\Debug\ApplicationOne.exe
+D:\Learn C#\LevelBasic\Lab01\ApplicationOne\ApplicationOne\bin\Debug\ApplicationOne.pdb
+D:\Learn C#\LevelBasic\Lab01\ApplicationOne\ApplicationOne\obj\Debug\ApplicationOne.csprojResolveAssemblyReference.cache
+D:\Learn C#\LevelBasic\Lab01\ApplicationOne\ApplicationOne\obj\Debug\ApplicationOne.exe
+D:\Learn C#\LevelBasic\Lab01\ApplicationOne\ApplicationOne\obj\Debug\ApplicationOne.pdb
